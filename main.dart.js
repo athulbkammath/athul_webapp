@@ -82303,7 +82303,7 @@ A.Lf.prototype={
 aE(){this.aT()
 A.bC(B.c6,new A.a8E(this))},
 I(a){var s=null
-return A.Ks(!0,A.cJ(s,A.jj(A.qm("gif/animation_gif.GIF",s,B.i5,200,s,200),s,s),B.r,B.aV,s,s,s,s,s,s,s,s,s),B.aC,!0)}}
+return A.Ks(!0,A.cJ(s,A.jj(A.qm("assets/gif/animation_gif.gif",s,B.i5,200,s,200),s,s),B.r,B.aV,s,s,s,s,s,s,s,s,s),B.aC,!0)}}
 A.a8E.prototype={
 $0(){var s,r,q=this.a.c
 q.toString

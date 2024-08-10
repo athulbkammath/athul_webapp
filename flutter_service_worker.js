@@ -163,10 +163,10 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "a8297d555dd34879e8e48e1cf12acefa",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e146d7d1439d944cb09d1e31127463b5",
-"/": "e146d7d1439d944cb09d1e31127463b5",
+"index.html": "4c97ce240f0883737ab83e999f378a3b",
+"/": "4c97ce240f0883737ab83e999f378a3b",
 "logo_transparent.png": "7b32de95f1341f94e96f7f74ae8a6e24",
-"main.dart.js": "549535ef01dac03718b877da177ea248",
+"main.dart.js": "6b5d893689fac601e944f2eba0336580",
 "manifest.json": "a3ac379512353ab6770895013f986547",
 "version.json": "c960dc2256afb626efb7bdacfd9590f9"};
 // The application shell files that are downloaded before a service worker can
